@@ -1,0 +1,27 @@
+body
+   {
+     margin:0;
+	 padding:0;
+	 background: lightblue;
+   }
+   div{
+	   width:700px;
+	   height:70px;
+	   border-radius:35px;
+	   backgound:#3AC371;
+	   position:absolute;
+	   left: 50%;
+	   top: 50%;
+	   transform:translate(-50%,-50%);    /*The translate() CSS function repositions an element in the horizontal and/or vertical directions. Its result is a <transform-function> data type*/
+   }
+   .white{
+	   width: 80px;
+	   height: 80px;
+	   border-radius:40px;
+	   background-width: 20px;
+	   box-shadow: 2px 2px 3px 2px rgb(0,0,0,.3);
+	   
+   }
+   
+   
+   
